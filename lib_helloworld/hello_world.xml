@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="1.7.0">
+    <name>Hello World</name>
+    <libraryname>helloworld</libraryname>
+    <author>Jake Gully / Yadda.co.uk</author>
+    <creationDate>March 2013</creationDate>
+    <copyright>Copyright (C) 2013</copyright>
+    <license>
+        http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+    </license>
+    <authorEmail>jake@yadda.co.uk</authorEmail>
+    <authorUrl>www.yadda.co.uk</authorUrl>
+    <version>1.0</version>
+    <description> 
+        Do some stuff.
+    </description>
+    <files>
+        <folder>lib_helloworld</folder>
+    </files>
+</extension>
