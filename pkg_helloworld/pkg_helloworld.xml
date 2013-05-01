@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+  <name>Helloworld</name>
+  <author>Jake Gully</author>
+  <creationDate>April 2013</creationDate>
+  <packagename>helloworld</packagename>
+  <version>1.0.0</version>
+  <url>http://yadda.co.uk</url>
+  <packager>Jake Gully / Yadda</packager>
+  <packageurl>http://yadda.co.uk</packageurl>
+  <description>An example Joomla package.</description>
+  <files folder="packages">
+    <file type="library" id="helloworld">lib_helloworld.zip</file>
+    <file type="component" id="helloworld">com_helloworld.zip</file>
+    <file type="module" id="helloworld" client="site">mod_helloworld.zip</file>
+    <file type="plugin" id="helloworld" group="helloworld">plg_helloworld.zip</file>
+  </files>
+</extension>
